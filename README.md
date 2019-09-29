@@ -1,3 +1,4 @@
 # PROI
 
-Projects in C++. The 2nd semester.
+Projects in C++. 
+The 2nd semester.
